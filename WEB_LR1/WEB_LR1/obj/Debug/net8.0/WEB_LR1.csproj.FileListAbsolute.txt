@@ -1,0 +1,14 @@
+D:\Choice\PoliZlo\WEB_LR1\WEB_LR1\bin\Debug\net8.0\WEB_LR1.exe
+D:\Choice\PoliZlo\WEB_LR1\WEB_LR1\bin\Debug\net8.0\WEB_LR1.deps.json
+D:\Choice\PoliZlo\WEB_LR1\WEB_LR1\bin\Debug\net8.0\WEB_LR1.runtimeconfig.json
+D:\Choice\PoliZlo\WEB_LR1\WEB_LR1\bin\Debug\net8.0\WEB_LR1.dll
+D:\Choice\PoliZlo\WEB_LR1\WEB_LR1\bin\Debug\net8.0\WEB_LR1.pdb
+D:\Choice\PoliZlo\WEB_LR1\WEB_LR1\obj\Debug\net8.0\WEB_LR1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Choice\PoliZlo\WEB_LR1\WEB_LR1\obj\Debug\net8.0\WEB_LR1.AssemblyInfoInputs.cache
+D:\Choice\PoliZlo\WEB_LR1\WEB_LR1\obj\Debug\net8.0\WEB_LR1.AssemblyInfo.cs
+D:\Choice\PoliZlo\WEB_LR1\WEB_LR1\obj\Debug\net8.0\WEB_LR1.csproj.CoreCompileInputs.cache
+D:\Choice\PoliZlo\WEB_LR1\WEB_LR1\obj\Debug\net8.0\WEB_LR1.dll
+D:\Choice\PoliZlo\WEB_LR1\WEB_LR1\obj\Debug\net8.0\refint\WEB_LR1.dll
+D:\Choice\PoliZlo\WEB_LR1\WEB_LR1\obj\Debug\net8.0\WEB_LR1.pdb
+D:\Choice\PoliZlo\WEB_LR1\WEB_LR1\obj\Debug\net8.0\WEB_LR1.genruntimeconfig.cache
+D:\Choice\PoliZlo\WEB_LR1\WEB_LR1\obj\Debug\net8.0\ref\WEB_LR1.dll
